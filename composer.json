@@ -1,0 +1,15 @@
+{
+    "name": "deida/psr4include-sample",
+    "autoload": {
+        "psr-4": {
+            "Project\\Psr4includeSample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andersonFariasCorrea",
+            "email": "deidaraa2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
